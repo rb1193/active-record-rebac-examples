@@ -1,0 +1,11 @@
+sqlite:
+  adapter: sqlite3
+  database: ":memory:"
+
+postgres:
+  adapter: postgresql
+  database: postgres
+  username: postgres
+  password: password
+  host: localhost
+  port: 5432
